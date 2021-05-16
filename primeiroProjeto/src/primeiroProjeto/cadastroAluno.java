@@ -87,6 +87,7 @@ public class cadastroAluno {
 			}
 			else if(op == 0) {
 				continuar = false;
+				System.out.println("Ate logo");
 			}
 		}
 		
